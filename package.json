@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
+  "author": "Fanky.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
@@ -63,10 +63,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "git+https://github.com/Rudal-XD/DarkBot.git"
   },
   "bugs": {
-    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+    "url": "https://github.com/Rudal-XD/DarkBot/issues"
   },
-  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
+  "homepage": "https://github.com/Rudal-XD/DarkBot#readme"
 }
